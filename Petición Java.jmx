@@ -1,0 +1,26 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1697671895235,2157,Petición Java,200,OK,Grupo de Hilos 1-1,,true,,270695,0,2,2,null,0,0,0
+1697671897232,587,Petición Java,200,OK,Grupo de Hilos 1-2,,true,,270695,0,2,2,null,0,0,0
+1697671897396,814,Petición Java,200,OK,Grupo de Hilos 1-1,,true,,270695,0,2,2,null,0,0,0
+1697671897821,863,Petición Java,200,OK,Grupo de Hilos 1-2,,true,,270695,0,2,2,null,0,0,0
+1697671898210,824,Petición Java,200,OK,Grupo de Hilos 1-1,,true,,270695,0,2,2,null,0,0,0
+1697671898684,962,Petición Java,200,OK,Grupo de Hilos 1-2,,true,,270695,0,3,3,null,0,0,0
+1697671899034,795,Petición Java,200,OK,Grupo de Hilos 1-1,,true,,270695,0,3,3,null,0,0,0
+1697671899647,528,Petición Java,200,OK,Grupo de Hilos 1-2,,true,,270695,0,3,3,null,0,0,0
+1697671899231,1094,Petición Java,200,OK,Grupo de Hilos 1-3,,true,,270695,0,3,3,null,0,0,0
+1697671899830,932,Petición Java,200,OK,Grupo de Hilos 1-1,,true,,270695,0,3,3,null,0,0,0
+1697671900176,814,Petición Java,200,OK,Grupo de Hilos 1-2,,true,,270695,0,2,2,null,0,0,0
+1697671900326,1241,Petición Java,200,OK,Grupo de Hilos 1-3,,true,,270695,0,2,2,null,0,0,0
+1697671901230,1283,Petición Java,200,OK,Grupo de Hilos 1-4,,true,,270695,0,2,2,null,0,0,0
+1697671901568,975,Petición Java,200,OK,Grupo de Hilos 1-3,,true,,270695,0,2,2,null,0,0,0
+1697671902514,631,Petición Java,200,OK,Grupo de Hilos 1-4,,true,,270695,0,2,2,null,0,0,0
+1697671902544,790,Petición Java,200,OK,Grupo de Hilos 1-3,,true,,270695,0,3,3,null,0,0,0
+1697671903230,508,Petición Java,200,OK,Grupo de Hilos 1-5,,true,,270695,0,3,3,null,0,0,0
+1697671903336,686,Petición Java,200,OK,Grupo de Hilos 1-3,,true,,270695,0,3,3,null,0,0,0
+1697671903146,920,Petición Java,200,OK,Grupo de Hilos 1-4,,true,,270695,0,2,2,null,0,0,0
+1697671903738,701,Petición Java,200,OK,Grupo de Hilos 1-5,,true,,270695,0,2,2,null,0,0,0
+1697671904067,816,Petición Java,200,OK,Grupo de Hilos 1-4,,true,,270695,0,2,2,null,0,0,0
+1697671904439,626,Petición Java,200,OK,Grupo de Hilos 1-5,,true,,270695,0,2,2,null,0,0,0
+1697671904884,898,Petición Java,200,OK,Grupo de Hilos 1-4,,true,,270695,0,2,2,null,0,0,0
+1697671905066,841,Petición Java,200,OK,Grupo de Hilos 1-5,,true,,270695,0,1,1,null,0,0,0
+1697671905908,504,Petición Java,200,OK,Grupo de Hilos 1-5,,true,,270695,0,1,1,null,0,0,0
